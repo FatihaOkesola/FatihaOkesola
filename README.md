@@ -1,6 +1,6 @@
 # Hi, I'm Fatiha Okesola 👋
 
-I'm a Master's student in Business Analytics at California State University, East Bay, building toward a career at the intersection of finance and data analytics — think FP&A, payments analytics, financial data analysis, and strategic finance.
+I'm a Master's student in Business Analytics at California State University, East Bay, building toward a career at the intersection of finance and data analytics — think FP&A, payments analytics, revenue analytics, financial data analysis, and strategic finance.
 
 I'm currently a CFA Level II Candidate, which shapes how I think about the projects I build — I'm not just practising tools, I'm practising the kind of thinking those roles require.
 
