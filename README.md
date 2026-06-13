@@ -13,14 +13,14 @@ thinking those roles require.
 ## Projects
 
 **Superstore Sales Dataset** ✅
-- **Python** → Profitability diagnostic & scenario analysis
-- **Streamlit** → Interactive dashboard for non-technical users
-- **Excel** → Sales storytelling with pivot tables and slicers
-- **SQL** → Structured querying & business analysis
+- **Python** → Profitability diagnostic & scenario analysis — [repo](https://github.com/FatihaOkesola/superstore_sales_diagnostic)
+- **Streamlit** → Interactive dashboard for non-technical users — [repo](https://github.com/FatihaOkesola/superstore_streamlit_app)
+- **Excel** → Sales storytelling with pivot tables and slicers — [repo](https://github.com/FatihaOkesola/superstore_sales_excel_project)
+- **SQL** → Structured querying & business analysis — [repo](https://github.com/FatihaOkesola/Superstore_Sql_Analysis)
 
-**Credit Card Fraud Detection** 🔄
-- **SQL** → Database design & fraud signal analysis *(in progress)*
-- **Python** → Exploratory data analysis *(coming)*
+**UAE E-Commerce Fraud Signal Analysis** 🔄
+- **SQL** → Database design & fraud signal analysis — [repo](https://github.com/FatihaOkesola/UAE_E-Commerce_Fraud_Signal_Analysis)
+- **Python EDA** → Visualizations & pattern validation — [repo](https://github.com/FatihaOkesola/UAE_Fraud_EDA_Analysis)
 - **ML** → Fraud classification model *(coming)*
 
 ---
