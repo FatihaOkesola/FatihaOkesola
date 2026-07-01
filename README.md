@@ -18,19 +18,18 @@ thinking those roles require.
 - **Excel** → Sales storytelling with pivot tables and slicers — [repo](https://github.com/FatihaOkesola/superstore_sales_excel_project)
 - **SQL** → Structured querying & business analysis — [repo](https://github.com/FatihaOkesola/Superstore_Sql_Analysis)
 
-**UAE E-Commerce Fraud Signal Analysis** 🔄
+**UAE E-Commerce Fraud Signal Analysis** ✅
 - **SQL** → Database design & fraud signal analysis — [repo](https://github.com/FatihaOkesola/UAE_E-Commerce_Fraud_Signal_Analysis)
 - **Python EDA** → Visualizations & pattern validation — [repo](https://github.com/FatihaOkesola/UAE_Fraud_EDA_Analysis)
-- **ML** → Fraud classification model *(coming)*
+- **ML Classification** → Supervised classification & model comparison — [repo](https://github.com/FatihaOkesola/UAE_Fraud_ML_Classification)
 
 ---
 
 ## Tools & Skills
-**Currently using:** Python · Pandas · Matplotlib · Streamlit · Excel ·
-PostgreSQL · SQL
+**Currently using:** Python · pandas · matplotlib · seaborn · scikit-learn · 
+imbalanced-learn · statsmodels · Streamlit · Excel · PostgreSQL · SQL
 
-**In progress:** Power BI · Tableau · scikit-learn · Machine Learning
-
+**In progress:** Power BI · Tableau
 ---
 
 ## What I'm Building Toward
