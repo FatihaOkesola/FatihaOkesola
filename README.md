@@ -23,6 +23,8 @@ thinking those roles require.
 - **Python EDA** → Visualizations & pattern validation — [repo](https://github.com/FatihaOkesola/UAE_Fraud_EDA_Analysis)
 - **ML Classification** → Supervised classification & model comparison — [repo](https://github.com/FatihaOkesola/UAE_Fraud_ML_Classification)
 
+**The PepsiCo Financial Analysis Series** 🔄
+- **Four-part applied finance project** → FSA, Corporate Finance, Equity Valuation, Investment Recommendation — [repo](https://github.com/FatihaOkesola/pepsico-financial-analysis)
 ---
 
 ## Tools & Skills
